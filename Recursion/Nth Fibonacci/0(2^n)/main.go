@@ -1,3 +1,6 @@
+//Nth fibonacci number formula
+//F(n) = F(n-1)+F(n-2)
+
 package main
 
 import (
