@@ -1,7 +1,7 @@
 package main
 
 func TwoNumberSum(array []int, target int) []int {
-	// Write your code here.
+
 	m := map[int]bool{}
 	for _, v := range array {
 		form := target - v
