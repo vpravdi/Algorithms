@@ -1,3 +1,5 @@
+//0(nlog(n)) time
+
 package main
 
 import "sort"
