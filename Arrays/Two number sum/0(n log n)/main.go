@@ -1,4 +1,5 @@
 //0(nlog(n)) time  0(1) space
+//This is the best solution to solve the problem of two number sum
 package main
 
 import "sort"
