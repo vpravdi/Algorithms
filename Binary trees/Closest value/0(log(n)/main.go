@@ -10,5 +10,5 @@ type BST struct {
 
 func (tree *BST) FindClosestValue(target int) int {
 
-	return -1
+	return tree.Value
 }
