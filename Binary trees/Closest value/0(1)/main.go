@@ -1,4 +1,5 @@
 //find closest value in BST
+//time 0(log(n)) and space 0(1)
 package main
 
 type BST struct {
