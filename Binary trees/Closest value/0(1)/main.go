@@ -1,3 +1,4 @@
+//find closest value in BST
 package main
 
 type BST struct {
