@@ -8,6 +8,6 @@ type BST struct {
 }
 
 func (tree *BST) FindClosestValue(target int) int {
-	// Write your code here.
+
 	return -1
 }
